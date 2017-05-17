@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/songpo/Desktop/acceleratedcpp/ch3/main.cpp
+iostream
+-
+algorithm
+-
+ios
+-
+iomanip
+-
+string
+-
+vector
+-
+
